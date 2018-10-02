@@ -4,3 +4,7 @@ numpy
 matplotlib
 requests
 aiohttp
+pathlib
+pyyaml
+jinja2
+aiohttp_jinja2
